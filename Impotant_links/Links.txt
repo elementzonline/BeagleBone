@@ -1,0 +1,15 @@
+
+Getting started page
+http://beagleboard.org/bone
+
+ElementzOnline website
+http://elementzonline.com/
+
+Support blog
+https://elementztechblog.wordpress.com/
+
+Wiki page 
+http://elinux.org/Beagleboard:BeagleBoneBlack
+
+Forum and community
+http://beagleboard.org/Community/Forums
